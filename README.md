@@ -2,5 +2,4 @@
 
 This is the readme file!
 
-
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1rjTtn-oj7yvHU3F0Jg3eYLDltGOtNMcsfpR-4KU4s08/edit#gid=385193571)
+[](https://docs.google.com/spreadsheets/d/1rjTtn-oj7yvHU3F0Jg3eYLDltGOtNMcsfpR-4KU4s08/edit#gid=385193571)
